@@ -4,6 +4,8 @@
  * 
  * @author OPMat
  */
+namespace PHPShopifySDK;
+
 class ShopifyRequest {
     
     /**
